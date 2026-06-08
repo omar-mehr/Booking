@@ -1,0 +1,15 @@
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/bin/Debug/net9.0/Dbwebb
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/bin/Debug/net9.0/Dbwebb.deps.json
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/bin/Debug/net9.0/Dbwebb.runtimeconfig.json
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/bin/Debug/net9.0/Dbwebb.dll
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/bin/Debug/net9.0/Dbwebb.pdb
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.AssemblyInfoInputs.cache
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.AssemblyInfo.cs
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.csproj.CoreCompileInputs.cache
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.sourcelink.json
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.dll
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/refint/Dbwebb.dll
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.pdb
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/Dbwebb.genruntimeconfig.cache
+/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/obj/Debug/net9.0/ref/Dbwebb.dll

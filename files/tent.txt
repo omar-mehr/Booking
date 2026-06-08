@@ -1,0 +1,4 @@
+301;2;false;false;false
+302;2;false;true;true
+303;2;false;true;false
+304;2;false;false;true

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRvkdbb3hG0=",
+  "success": true,
+  "projectFilePath": "/home/omarm/dbwebb-kurser/csharp-omme22/kmom10/Dbwebb/Dbwebb.csproj",
+  "expectedPackageFiles": [
+    "/home/omarm/.nuget/packages/microsoft.netcore.app.ref/9.0.15/microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "/home/omarm/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.15/microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "/home/omarm/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.15/microsoft.netcore.app.host.linux-x64.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
