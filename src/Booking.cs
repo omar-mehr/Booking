@@ -39,12 +39,12 @@ public class Booking
     }
     public string GetDescription()
     {
-        return $"Bokningsdatum: {this._date.ToString("yyyy-MM-dd")}"
-            + $"\nAntal nätter: {this._numberOfNights}"
-            + $"\n\nGäst:"
+        return $"Booking date: {this._date.ToString("yyyy-MM-dd")}"
+            + $"\nNumber of nights: {this._numberOfNights}"
+            + $"\n\nGuest:"
             + $"\n{this._guest.GetDescription()}"
-            + $"\n\nBoende:"
+            + $"\n\n Accommodation:"
             + $"\n{this._accommodation.GetDescription()}"
-            + $"\n\nTotalpris (inkl. antal nätter): {this._accommodation.CalculatePrice(this._numberOfNights)} kr";
+            + $"\n\nTotalprice (for {this.numberOfNights}: {this._accommodation.CalculatePrice(this._numberOfNights)} SEK";
     }
 }
