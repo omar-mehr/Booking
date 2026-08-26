@@ -36,10 +36,10 @@ public abstract class Accommodation
     public abstract int CalculatePrice(int numberOfNights);
     public virtual string GetDescription()
     {
-        return $"Boendenummer: {this._accommodationNumber}\n" +
-                $"Max antal gäster: {this._maxNumberOfGuests}\n" +
-                $"Har frukost: {(this._hasBreakfast ? "Ja" : "Nej")}\n" +
-                $"Är bokad: {(this._isBooked ? "Ja" : "Nej")}\n" +
-                $"Pris per natt: {this.CalculatePrice(1)} kr";
+        return $"Accommodation number: {this._accommodationNumber}\n" +
+                $"Maximum capacity: {this._maxNumberOfGuests}\n" +
+                $"Breakfast: {(this._hasBreakfast ? "Ja" : "Nej")}\n" +
+                $"Is Booked: {(this._isBooked ? "Ja" : "Nej")}\n" +
+                $"Price per night: {this.CalculatePrice(1)} kr";
     }
 }
