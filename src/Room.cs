@@ -35,8 +35,8 @@ public class Room : Accommodation
     public override string GetDescription()
     {
         return base.GetDescription()
-        + $"\nExtrasäng: {(this._extraBed ? "Ja" : "Nej")}"
-        + $"\nEget badrum: {(this._privateBathroom ? "Ja" : "Nej")}\n";
+        + $"\nExtra bed: {(this._extraBed ? "Yes" : "No")}"
+        + $"\nPrivate bathroom: {(this._privateBathroom ? "Yes" : "No")}\n";
 
     }
 }
