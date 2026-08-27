@@ -38,8 +38,8 @@ public class Cabin : Accommodation
     public override string GetDescription()
     {
         return base.GetDescription()
-            + $"\nFrukost beställd: {(this._breakfastOrdered ? "Ja" : "Nej")}"
-            + $"\nStädning(engångskostnad 400 kr): {(this._cleaning ? "Ja" : "Nej")}"
-            + $"\nParkeringsplats: {(this._parkingSpace ? "Ja" : "Nej")}\n";
+            + $"\nBreakfast ordered: {(this._breakfastOrdered ? "Yes" : "No")}"
+            + $"\nCleaning(one-time fee:400 SEK): {(this._cleaning ? "Yes" : "No")}"
+            + $"\nParking space: {(this._parkingSpace ? "Yes" : "No")}\n";
     }
 }
