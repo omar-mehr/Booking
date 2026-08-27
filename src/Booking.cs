@@ -45,6 +45,6 @@ public class Booking
             + $"\n{this._guest.GetDescription()}"
             + $"\n\n Accommodation:"
             + $"\n{this._accommodation.GetDescription()}"
-            + $"\n\nTotalprice (for {this.numberOfNights}: {this._accommodation.CalculatePrice(this._numberOfNights)} SEK";
+            + $"\n\nTotalprice (for {this._numberOfNights}: {this._accommodation.CalculatePrice(this._numberOfNights)} SEK";
     }
 }
