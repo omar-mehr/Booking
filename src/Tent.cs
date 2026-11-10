@@ -40,10 +40,10 @@ public class Tent : Accommodation
     }
     public override string GetDescription()
     {
-        return base.GetDescription()
-            + $"\nEl: {(this._electricity ? "Ja" : "Nej")}"
-            + $"\nKylbox: {(this._coolerBox ? "Ja" : "Nej")}"
-            + $"\nFrukost beställd: {(this._breakfastOrdered ? "Ja" : "Nej")}"
-            + $"\nIngår: 2 sovsäckar och 2 liggunderlag\n";
+         return base.GetDescription()
+        + $"\nElectricity: {(this._electricity ? "Yes" : "No")}"
+        + $"\nCooler box: {(this._coolerBox ? "Yes" : "No")}"
+        + $"\nBreakfast ordered: {(this._breakfastOrdered ? "Yes" : "No")}"
+        + $"\nIncluded: 2 sleeping bags and 2 sleeping pads\n";
     }
 }
