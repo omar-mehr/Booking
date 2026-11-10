@@ -36,10 +36,10 @@ public class Guest
     }
     public string GetDescription()
     {
-        return $"Gäst-ID: {this._id}"
-            + $"\nNamn: {this._name}"
-            + $"\nStamkund: {(this._loyalCustomer ? "Ja" : "Nej")}"
+        return $"Guest ID: {this._id}"
+            + $"\nName: {this._name}"
+            + $"\nLoyal customer: {(this._loyalCustomer ? "Yes" : "No")}"
             + $"\nEmail: {this._email}"
-            + $"\nAdress: {this._address}\n";
+            + $"\nAddress: {this._address}\n";
     }
 }
